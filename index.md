@@ -1,5 +1,7 @@
+--
 Hello , your entering nmhlog
-
+## [My Log](TXT/mylog.txt)
+--
 
 
 ###  'Operating Systems' 
@@ -14,4 +16,8 @@ Hello , your entering nmhlog
 * [Week 08](W08/) 
 * [Week 09](W09/) 
 * [Week 10](W10/)
-*GSGSCICILTT: "Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi"
+
+
+
+
+* GSGSCICILTT: "Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi"
