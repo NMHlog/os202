@@ -1,10 +1,8 @@
 
 # Hello , your entering nmhlog
 
-
-[My Log](TXT/mylog.txt)
-[WEB](https://nmhlog.github.io/os202/) 
-[GitHub](https://github.com/nmhlog/os202/)
+more about:
+[My Log](TXT/mylog.txt)  [WEB](https://nmhlog.github.io/os202/)  [GitHub](https://github.com/nmhlog/os202/)
 
 
 
