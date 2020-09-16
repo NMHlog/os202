@@ -1,7 +1,7 @@
 
 # Hello , your entering nmhlog
 
-more about:
+more about:<br>
 [My Log](TXT/mylog.txt) &nbsp; 
 [WEB](https://nmhlog.github.io/os202/) &nbsp;
 [GitHub](https://github.com/nmhlog/os202/)&nbsp;
