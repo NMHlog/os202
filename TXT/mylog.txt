@@ -8,4 +8,4 @@ ZCZC W00 180 L06 Reading Book
 ZCZC W00 120 L02 ZOOM
 ZCZC W00 100 L99 Other (YouTube jekyll)
 ZCZC W00  60 L03 GitHub related
-ZCZC W00 120 L06 Reading Book
+ZCZC W00 200 L06 Reading Book
