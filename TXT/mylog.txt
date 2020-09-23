@@ -19,4 +19,4 @@ ZCZC W01  20 L05 GSGS related
 ZCZC W01 200 L06 Reading Book
 ZCZC W01 100 L05 GSGS related
 ZCZC W01  50 L10 Assignment (General)
-ZCZC W01  50 L08 Trying something
+ZCZC W01  50 L03 GitHub related
