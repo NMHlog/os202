@@ -30,4 +30,7 @@ ZCZC W01 100 L05 GSGS related
 ZCZC W01  10 L99 Other (Email itf@cs.ui.ac.id)
 ZCZC W01  50 L03 GitHub related
 ZCZC W01  70 L22 YouTube: study
-ZCZC W01  50 L03 GitHub related
+ZCZC W01  50 L00 General Log
+ZCZC W01 100 L99 Other (Diskusi By Wa)
+ZCZC W01  10 L15 Assignment #5
+ZCZC W01  10 L00 General Log
