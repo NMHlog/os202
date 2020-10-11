@@ -2,10 +2,14 @@
 # Hello , your entering nmhlog
 
 more about:<br>
-[My Log](TXT/mylog.txt) &nbsp; 
-[WEB](https://nmhlog.github.io/os202/) &nbsp;
-[GitHub](https://github.com/nmhlog/os202/)&nbsp;
-
+[WEB](https://cbkadal.github.io/os202/) &nbsp;
+[GitHub](https://github.com/cbkadal/os202/) &nbsp;
+[My Log](TXT/mylog.txt) &nbsp;
+[My Public Key](TXT/mypubkey.txt) &nbsp;
+[My Script](TXT/myscript.sh) &nbsp;
+[My Top Ten Rank List](TXT/myrank.txt) &nbsp;
+[SHA256SUM](TXT/SHA256SUM) &nbsp; 
+[SHA256SUM.asc](TXT/SHA256SUM.asc) &nbsp; 
 
 
 ###  Operating Systems 
@@ -21,7 +25,7 @@ more about:<br>
 * [Week 09](W09/) 
 * [Week 10](W10/)
 
-
+<img src="iamyourfather.jpg" width="256">
 
 ---
 GSGSCICILTT: "Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi"
