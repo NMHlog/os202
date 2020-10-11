@@ -50,4 +50,21 @@ ZCZC W02  90 L07 Demo related
 ZCZC W02  40 L05 GSGS related
 ZCZC W02 100 L11 Assignment #1
 ZCZC W02  90 L15 Assignment #5
-ZCZC W02 100 L16 Assignment #6   
+ZCZC W02 100 L16 Assignment #6
+# Week 3
+ZCZC W03 130 L02 ZOOM
+ZCZC W03  40 L14 Assignment #4
+ZCZC W03 300 L06 Reading Book
+ZCZC W03 600 L11 Assignment #1
+ZCZC W03 120 L22 YouTube: bash shell tutorial for beginer
+ZCZC W03 120 L25 C-language: study and try
+ZCZC W03 300 L12 Assignment #2
+ZCZC W03  40 L13 Assignment #3
+ZCZC W03  90 L15 Assignment #5
+ZCZC W03  50 L03 GitHub related
+ZCZC W03  30 L16 Assignment #6
+ZCZC W03 100 L17 Assignment #7
+ZCZC W03  30 L19 Assignment #9
+ZCZC W03  20 L18 Assignment #8
+ZCZC W03  30 L20 Assignment #10
+ZCZC W03  10 L03 GitHub related   
