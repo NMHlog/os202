@@ -72,6 +72,7 @@ ZCZC W03  10 L03 GitHub related
 
 ZCZC W04 100 L02 ZOOM
 ZCZC W04 120 L24 Udacity: study  
-ZCZC W04 100 L22 YouTube: Hamid Muktar Main memory
+ZCZC W04 100 L22 YouTube: study
 ZCZC W04  50 L14 Assignment #4 
-ZCZC W04  30 L14 Assignment #5  
+ZCZC W04  30 L13 Assignment #3
+ZCZC W04  10 L12 Assignment #2
