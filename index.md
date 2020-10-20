@@ -2,8 +2,8 @@
 # Hello , your entering nmhlog
 
 more about:<br>
-[WEB](https://cbkadal.github.io/os202/) &nbsp;
-[GitHub](https://github.com/cbkadal/os202/) &nbsp;
+[WEB](https://nmhlog.github.io/os202/) &nbsp;
+[GitHub](https://github.com/nmhlog/os202/) &nbsp;
 [My Log](TXT/mylog.txt) &nbsp;
 [My Public Key](TXT/mypubkey.txt) &nbsp;
 [My Script](TXT/myscript.sh) &nbsp;
