@@ -99,3 +99,4 @@ ZCZC W05  10 L15 Assignment #5
 ZCZC W05  10 L17 Assignment #7
 ZCZC W05   5 L18 Assignment #8
 ZCZC W05   5 L19 Assignment #9
+ZCZC W05 180 L06 Reading Book
