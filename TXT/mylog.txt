@@ -100,3 +100,20 @@ ZCZC W05  10 L17 Assignment #7
 ZCZC W05   5 L18 Assignment #8
 ZCZC W05   5 L19 Assignment #9
 ZCZC W05 205 L11 Assignment #1
+
+#Week 6
+ZCZC w06  80 L02 ZOOM
+ZCZC W06 300 L24 Udacity: study 
+ZCZC w06  50 L22 YouTube: study
+ZCZC w06 300 L11 Assignment #1
+ZCZC w06  50 L05 GSGS related
+ZCZC w06  50 L07 Demo related
+ZCZC w06  30 L12 Assignment #3
+ZCZC w06  15 L13 Assignment #2
+ZCZC w06  50 L14 Assignment #4 
+ZCZC w06  10 L15 Assignment #5
+ZCZC W06 100 L16 Assignment #6
+ZCZC w06  10 L17 Assignment #7
+ZCZC w06   5 L18 Assignment #8
+ZCZC w06   5 L19 Assignment #9
+ZCZC w06   5 L20 Assignment #10 and #11.
